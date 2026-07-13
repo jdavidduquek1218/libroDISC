@@ -1,0 +1,9 @@
+{
+  "name": "El Manual Real del DISC",
+  "description": "Ebook interactivo - El Manual Real del DISC",
+  "keywords": ["disc", "ebook", "web"],
+  "repository": "",
+  "env": {
+    "PORT": "3000"
+  }
+}

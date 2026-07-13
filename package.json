@@ -1,0 +1,13 @@
+{
+  "name": "el-manual-real-disc",
+  "version": "1.0.0",
+  "description": "El Manual Real del DISC - Ebook Web",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["disc", "manual", "ebook"],
+  "author": "",
+  "license": "MIT"
+}
